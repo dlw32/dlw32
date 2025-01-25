@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a novice to coding, working with MatLab for work. I'm trying out GitHub mainly out of curiosity and to develop my skills. 
 <!--
 **dlw32/dlw32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
